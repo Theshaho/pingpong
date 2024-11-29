@@ -109,3 +109,16 @@ then set your email and password and restart mining using below codes
 
 ## Grass
 [Grass](https://app.getgrass.io/register/?referralCode=HZNHg3zmPo9MePr)
+
+## follow my X and TG channel for more 
+[X](https://x.com/iamshaho)
+[UbuntuForNodes TG channel](https://ubuntufornodes)
+
+## Donations
+
+If you would like to support the development of this project, you can make a donation using the following addresses:
+
+- **Solana**: `EBbY1GskRSgwJcN3cuUCaZqk5zzpsr7A6ku7yg4TCGJa`
+- **EVM**: `0x895b2c93976f72E6dB0Bf88265a74f34733abd3D`
+- **BTC**: `tb1qfw8zztm67fjzgtru05udwtzq8f069fv8l7am2t`
+- 
