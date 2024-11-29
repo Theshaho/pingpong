@@ -111,7 +111,9 @@ then set your email and password and restart mining using below codes
 [Grass](https://app.getgrass.io/register/?referralCode=HZNHg3zmPo9MePr)
 
 ## follow my X and TG channel for more 
+
 [X](https://x.com/iamshaho)
+
 [UbuntuForNodes TG channel](https://ubuntufornodes)
 
 ## Donations
