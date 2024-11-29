@@ -114,7 +114,7 @@ then set your email and password and restart mining using below codes
 
 [X](https://x.com/iamshaho)
 
-[UbuntuForNodes TG channel](https://ubuntufornodes)
+[UbuntuForNodes TG channel](https://t.me/ubuntufornodes)
 
 ## Donations
 
